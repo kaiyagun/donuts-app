@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Gräddbulle",
+        "price": 3.99
+    },
+    {
+        "id": 2,
+        "name": "Hallongrotta",
+        "price": 5.99
+    },
+    {
+        "id": 3,
+        "name": "Vaniljhjärta",
+        "price": 3.99
+    },
+    {
+        "id": 4,
+        "name": "Chokladbiskvi",
+        "price": 1.99
+    },
+    {
+        "id": 5,
+        "name": "Kanelbulle",
+        "price": 2.99
+    },
+    {
+        "id": "6",
+        "name": "Lussekatt",
+        "price": "3.99"
+    }
+]

@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(208, 176, 218);
+}
+
+#body {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+#donut-form {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+}
